@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="855989e6-5e8a-48ab-b40a-9d7bedb31a98" name="VDS_bot">
+        <fileTransfer rootFolder="/root/tele_bot" accessType="SFTP" host="37.230.115.13" port="22" sshConfigId="767765bf-5a82-467f-9088-d23f332cc577" sshConfig="root@37.230.115.13:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
